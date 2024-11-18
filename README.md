@@ -1,10 +1,11 @@
 ## Hi there 👋
+Hola soy Ricardo Bravo, soy psicólogo y estoy interesado en las ciencias cognitivas y neurociencias  
 
+- Actualmente estoy trabajando en neuroimagen asociada a trastornos neurocognitivos
 <!--
 **reebravo/reebravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
