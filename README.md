@@ -3,7 +3,7 @@
 ## 🚀 Sobre mí
 💡 Soy Dr. en Psicología adscrito al Instituto de Ciencias de la Salud en la Universidad Autónoma del Estado de Hidalgo.
 💻 Acualmente me encuentro interesado en el estudio del envejecimiento exepcional (super-agers), la reserva cognitiva 
-y el uso de técnicas de psicofisiología y aprendizaje de máquina para la identificación y seguimiento de problemas de 
+y el uso de técnicas de psicofisiología y aprendizaje de máquina para la identificación o seguimiento de problemas de 
 salud mental.
 
 ## 🛠️ Tecnologías y herramientas
