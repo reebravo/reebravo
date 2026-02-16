@@ -14,3 +14,4 @@ salud mental.
 ## 📫 Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reebravo/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo_bravo@uaeh.edu.mx)
+[![ORCID iD](https://img.shields.io/badge/orcid-0000--0002--1825--0097-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4221-3090)
