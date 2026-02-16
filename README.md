@@ -1,17 +1,16 @@
-## Hi there 👋
-Hola soy Ricardo Bravo, soy psicólogo y estoy interesado en las ciencias cognitivas y neurociencias  
+# 👋 Hola, soy Ricardo Bravo
 
-- Actualmente estoy trabajando en neuroimagen asociada a trastornos neurocognitivos
-<!--
-**reebravo/reebravo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+💡 Soy Dr. en Psicología adscrito al Instituto de Ciencias de la Salud en la Universidad Autónoma del Estado de Hidalgo.
+💻 Acualmente me encuentro interesado en el estudio del envejecimiento exepcional (super-agers), la reserva cognitiva 
+y el uso de técnicas de psicofisiología y aprendizaje de máquina para la identificación y seguimiento de problemas de 
+salud mental.
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📫 Contacto
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reebravo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ricardo_bravo@uaeh.edu.mx)
